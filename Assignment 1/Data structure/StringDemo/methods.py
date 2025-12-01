@@ -1,0 +1,18 @@
+str = 'FirstBit Solutions.123'
+
+print(str.capitalize())
+print(str.count('s'))
+print(str.endswith('123'))
+print(str.find('bit'))
+print(str.isalnum())
+print(str.isalpha())
+print(str.isdigit())
+print(str.isspace())
+print(str.isupper())
+print(str.islower())
+print(",".join(['101', 'Gita', '50000']))
+print(str.lower())
+print(str.replace('Bit', 'Byte'))
+print(str.split(" "))
+print(str.startswith('fir'))
+print(str.strip('[]'))
