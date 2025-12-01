@@ -1,0 +1,7 @@
+def area_rectangle(length, breadth):
+    return length * breadth
+
+# Main
+l = float(input("Enter length: "))
+b = float(input("Enter breadth: "))
+print("Area of rectangle =", area_rectangle(l, b))
